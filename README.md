@@ -2,14 +2,6 @@
 Overview
 HR Turnover Prediction is a machine learning project designed to predict employee turnover within an organization. Employee turnover refers to the rate at which employees leave a company and are replaced by new employees. High turnover rates can be costly for businesses due to the expenses associated with hiring and training new employees, as well as the potential loss of productivity and morale among existing employees. This project aims to help organizations identify potential turnover risks and take proactive measures to retain valuable talent.
 
-Table of Contents
-Introduction
-Dataset
-Features
-Installation
-Usage
-Contributing
-License
 Introduction
 Employee turnover can have a significant impact on a company's performance and employee morale. By predicting turnover risks, HR departments can implement targeted strategies to retain employees, such as offering training opportunities, adjusting compensation packages, or improving the work environment.
 
