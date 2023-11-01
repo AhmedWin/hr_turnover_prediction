@@ -20,3 +20,8 @@ Work_accident: Whether the employee has had a work accident (1 for yes, 0 for no
 promotion_last_5years: Whether the employee has been promoted in the last 5 years (1 for yes, 0 for no).
 salary: Employee salary level (low, medium, high).
 department: Department in which the employee works.
+
+Usage
+Upload Employee Data:
+
+Upload a CSV file containing employee data for prediction.
